@@ -1,0 +1,6 @@
+node_modules
+build
+contracts/StudentListStorage.sol
+contracts/StudentStorage.sol
+scripts/1_deploy.js
+scripts/2_deploy.js
